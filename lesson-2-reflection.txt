@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	It will create a hidden folder to store the metadata needed for version control. It's the folder of your project.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It acts as a medium between the working folder and the commit and let you choose which file(s) to be added to the commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
