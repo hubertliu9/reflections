@@ -5,3 +5,7 @@ Because cloud is additional backup if the computer fails and it offers opportuni
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because there might be multiple commit before the real deal goes public and you don't want to publish changes which you don't want to go public.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone on GitHub server. Clone is like copying a repository whether online or offline to your computer. Branch is a tool used to add new features.
