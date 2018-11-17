@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Because cloud is additional backup if the computer fails and it offers opportunity for cooperation.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because there might be multiple commit before the real deal goes public and you don't want to publish changes which you don't want to go public.
