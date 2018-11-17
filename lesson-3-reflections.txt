@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Because cloud is additional backup if the computer fails and it offers opportunity for cooperation.
